@@ -32,5 +32,5 @@ _A list used for planning and tracking batches of development. Key fields: emuls
 
 ## ️️⚙️ Technology Plan
 
-Now under investigation. (16 Jan 2025)
+Now under investigation. First question: across Google Cloud, Azure and AWS, what would be _on balance_ the best tool to use for automatic extraction of text from images? (16 Jan 2025)
 
